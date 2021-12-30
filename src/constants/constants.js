@@ -1,11 +1,11 @@
 export const projects = [
   {
     title: 'Humanizing COVID-19 Data Through Visual Analysis in Unity',
-    description: "My Senior Thesis on representing some numbers on escalating COVID-19 totals in 3D using C# and Unity. ",
+    description: "My Senior Thesis on representing some numbers on escalating COVID-19 totals in 3D using scripts written in C# and Unity. ",
       image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+      tags: ['Unity', 'C#', 'JSON'],
+    source: 'https://github.com/Jamfin92/VirtualRoom/tree/main/VirtualRoom_V_01',
+    visit: 'https://www.youtube.com/watch?v=nlrxNqTgjEY',
     id: 0,
   },
   {

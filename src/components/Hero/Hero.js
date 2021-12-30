@@ -12,8 +12,8 @@ const Hero = (props) => (
               Join me on my journey in Software Engineering!
           </SectionTitle>
           <SectionText>
-              Current stacks include:
-              Java, C#, SQL (PostgreSQL), and ReactJS. <br/>
+              Languages/Frameworks:
+              HTML/CSS/JavaScript, ReactJS, SQL, C#, Java, Python. <br/>
           </SectionText>
           <Button onClick={() => window.location = 'https://github.com/JamFin92'}>See My Github</Button>
       </LeftSection>
